@@ -1,7 +1,7 @@
 ### OLÁ!!! Sou a Rosemelry Mendes 🖐
 
 - 📚 Estudante na área de Tecnologia da Informação
-- 💻 Conhecimentos nas Linguagens Jave e Python
+- 💻 Conhecimentos básicos nas Linguagens Jave, Python, JavaScrip(React e React Native)
 - 📧 Email Pessoal: rose.dosson@hotmail.com
 
 <div align="center">
